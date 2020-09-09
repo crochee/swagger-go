@@ -1,0 +1,1 @@
+Generate swagger for go
